@@ -18,6 +18,6 @@ export class HeaderComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    console.log();
+    console.log("a");
   }
 }
