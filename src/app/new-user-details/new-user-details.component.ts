@@ -7,7 +7,6 @@ import { DataService } from '../data.service';
   styleUrls: ['./new-user-details.component.css']
 })
 export class NewUserDetailsComponent implements OnInit {
-
   constructor(private  list:DataService) { }
 
   ngOnInit(): void {
